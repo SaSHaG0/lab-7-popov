@@ -1,0 +1,125 @@
+#rightmenu{
+
+position: absolute;
+width: 420px;
+height: 860px;
+left: 300px;
+color:black;
+background: rgb(233, 226, 226);
+}
+#leftmenu
+{
+color:black;
+position: absolute;
+width: 300px;
+height: 860px;
+background:rgb(233, 226, 226);
+font-family: mv boli;
+font-size:17px;
+}
+#R1{
+ 
+line-height: 1;
+position: absolute;
+width: 385px;
+height: 200px;
+top: 15px;
+left: 18px;
+box-shadow: 10px 5px 10px black;
+}
+
+#R2{
+ 
+line-height: 1;
+position: absolute;
+box-shadow: 10px 5px 10px black;
+width: 385px;
+height: 100px;
+top: 230px;
+left: 18px;
+}
+#R3{
+ 
+line-height: 1;
+position: absolute;
+box-shadow: 10px 5px 10px black;
+width: 385px;
+height: 145px;
+top: 345px;
+left: 18px;
+}
+#R4{
+ 
+line-height: 1;
+position: absolute;
+box-shadow: 10px 5px 10px black;
+width: 385px;
+height: 100px;
+top: 510px;
+left: 18px;
+}
+#L1{
+  position: absolute;
+width: 180px;
+height: 180px;
+top: 25px;
+left: 55px;
+
+}
+#L2{
+ 
+line-height: 1px;
+position: absolute;
+width: 255px;
+height: 80px;
+top: 225px;
+left: 18px;
+
+}
+#L3{
+ line-height: 1px;
+ position: absolute;
+box-shadow: 10px 5px 10px black;
+width: 255px;
+height: 100px;
+top: 300px;
+left: 18px;
+
+}
+#L4{
+  line-height: 1px;
+ position: absolute;
+box-shadow: 10px 5px 10px black;
+width: 255px;
+height: 90px;
+top: 415px;
+left: 18px;
+
+}
+#L5{
+  line-height: 1px;
+ position: absolute;
+box-shadow: 10px 5px 10px black;
+width: 255px;
+height: 90px;
+top: 520px;
+left: 18px;
+
+}
+#L6{
+  line-height: 1px;
+  position: absolute;
+box-shadow: 10px 5px 10px black;
+width: 255px;
+height: 105px;
+top: 625px;
+left: 18px;
+}
+
+
+body{
+  
+  font-family: 'Arial';
+font-style: normal;
+font-weight: 600;
+}
